@@ -1,0 +1,19 @@
+C:\Users\LENOVO\Documents\FIHA\Kuliah\Semester 3\Pemrograman Lanjut\Currency Apps (hasil)\Currency Apps\Currency Apps\bin\Debug\netcoreapp3.1\Currency Apps.exe
+C:\Users\LENOVO\Documents\FIHA\Kuliah\Semester 3\Pemrograman Lanjut\Currency Apps (hasil)\Currency Apps\Currency Apps\bin\Debug\netcoreapp3.1\Currency Apps.deps.json
+C:\Users\LENOVO\Documents\FIHA\Kuliah\Semester 3\Pemrograman Lanjut\Currency Apps (hasil)\Currency Apps\Currency Apps\bin\Debug\netcoreapp3.1\Currency Apps.runtimeconfig.json
+C:\Users\LENOVO\Documents\FIHA\Kuliah\Semester 3\Pemrograman Lanjut\Currency Apps (hasil)\Currency Apps\Currency Apps\bin\Debug\netcoreapp3.1\Currency Apps.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\FIHA\Kuliah\Semester 3\Pemrograman Lanjut\Currency Apps (hasil)\Currency Apps\Currency Apps\bin\Debug\netcoreapp3.1\Currency Apps.dll
+C:\Users\LENOVO\Documents\FIHA\Kuliah\Semester 3\Pemrograman Lanjut\Currency Apps (hasil)\Currency Apps\Currency Apps\bin\Debug\netcoreapp3.1\Currency Apps.pdb
+C:\Users\LENOVO\Documents\FIHA\Kuliah\Semester 3\Pemrograman Lanjut\Currency Apps (hasil)\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\FIHA\Kuliah\Semester 3\Pemrograman Lanjut\Currency Apps (hasil)\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\LENOVO\Documents\FIHA\Kuliah\Semester 3\Pemrograman Lanjut\Currency Apps (hasil)\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\LENOVO\Documents\FIHA\Kuliah\Semester 3\Pemrograman Lanjut\Currency Apps (hasil)\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps_MarkupCompile.cache
+C:\Users\LENOVO\Documents\FIHA\Kuliah\Semester 3\Pemrograman Lanjut\Currency Apps (hasil)\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps_MarkupCompile.lref
+C:\Users\LENOVO\Documents\FIHA\Kuliah\Semester 3\Pemrograman Lanjut\Currency Apps (hasil)\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\LENOVO\Documents\FIHA\Kuliah\Semester 3\Pemrograman Lanjut\Currency Apps (hasil)\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.g.resources
+C:\Users\LENOVO\Documents\FIHA\Kuliah\Semester 3\Pemrograman Lanjut\Currency Apps (hasil)\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\FIHA\Kuliah\Semester 3\Pemrograman Lanjut\Currency Apps (hasil)\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\FIHA\Kuliah\Semester 3\Pemrograman Lanjut\Currency Apps (hasil)\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\FIHA\Kuliah\Semester 3\Pemrograman Lanjut\Currency Apps (hasil)\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.dll
+C:\Users\LENOVO\Documents\FIHA\Kuliah\Semester 3\Pemrograman Lanjut\Currency Apps (hasil)\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.pdb
+C:\Users\LENOVO\Documents\FIHA\Kuliah\Semester 3\Pemrograman Lanjut\Currency Apps (hasil)\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.genruntimeconfig.cache
